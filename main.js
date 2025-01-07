@@ -50,6 +50,12 @@ ScrollReveal().reveal(".showcase__content h4", {
   ...scrollRevealOption,
   delay: 500,
 });
+
+ScrollReveal().reveal(".showcase__content h2", {
+  ...scrollRevealOption,
+  delay: 500,
+});
+
 ScrollReveal().reveal(".showcase__content p", {
   ...scrollRevealOption,
   delay: 1000,
