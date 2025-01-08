@@ -17,7 +17,7 @@ navLinks.addEventListener("click", (e) => {
 const scrollRevealOption = {
   origin: "bottom",
   distance: "50px",
-  duration: 500,
+  duration: 1000,
 };
 
 ScrollReveal().reveal(".header__image img", {
